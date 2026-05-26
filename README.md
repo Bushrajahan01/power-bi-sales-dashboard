@@ -2,6 +2,10 @@ Power BI Sales Dashboard
 
 Project Overview
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-main.png)
+
 This project presents an interactive Power BI dashboard developed to analyze sales performance and generate business insights.
 
 Dashboard Features
